@@ -60,4 +60,11 @@ DuckDuckGo keeps history but removes your bind with the search.
 
 **HTTPs Everywhere extension**: https://www.eff.org/https-everywhere
 
+## Cookies
+Little text archives that store your session information such as: theme preferences, logins, saved passwords, etc.
 
+**Cookie AutoDelete extension**: https://chrome.google.com/webstore/detail/cookie-autodelete/fhcgjolkccmbidfldomjliifgaodjagh
+
+## Incognito mode
+
+![image](https://user-images.githubusercontent.com/122245816/211664982-243a2822-bcdb-4b72-9dc6-c73560451f1f.png)
