@@ -1,4 +1,4 @@
-# Incognito and Deep web
+# Privacity
 ## This is a repository made for taking notes from my study.
 
 **Privacity**: safeguard personal information and personal life.<br>
@@ -68,3 +68,15 @@ Little text archives that store your session information such as: theme preferen
 ## Incognito mode
 
 ![image](https://user-images.githubusercontent.com/122245816/211664982-243a2822-bcdb-4b72-9dc6-c73560451f1f.png)
+
+## Cryptocurrency: non-nominal payment method
+
+- Accepted by everyone
+- Rarity
+- Easy handling
+- Ballast: implicit value
+- Decentralized, there is no server
+- Every computer left in the community maintain the system working
+- Public algorithm
+
+**Monero** does not make your balance, sender, IP and transaction's value public as Bitcoin does.
