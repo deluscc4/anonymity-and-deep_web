@@ -19,3 +19,15 @@ This is used to avoid installing any virus to your real computer. However, these
 Whonix-Workstation (VM) > Whonix-Gateway == CONNECTION TORIFIED ==> Internet<br>
 **Whonix Download**: https://www.whonix.org/wiki/Download
 
+# Tails
+
+Operational system which works into Tor network.<br>
+**Download**: https://tails.boum.org/index.pt.html <br>
+Create a boot in a Flash drive. Plug into your computer and remove it after usage, the entire RAM will be deleted.
+
+![image](https://user-images.githubusercontent.com/122245816/212137362-bf76837f-ea41-4bd8-bd34-b19dba02849a.png)
+
+## Chart
+
+![image](https://user-images.githubusercontent.com/122245816/212137936-7f7e385f-dd1c-49fb-8419-0f790379fde0.png)
+
