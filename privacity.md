@@ -79,4 +79,4 @@ Little text archives that store your session information such as: theme preferen
 - Every computer left in the community maintain the system working
 - Public algorithm
 
-**Monero** does not make your balance, sender, IP and transaction's value public as Bitcoin does.
+**Monero** does not make public your balance, sender, IP and transaction's value such as Bitcoin does.
