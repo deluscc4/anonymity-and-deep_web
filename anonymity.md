@@ -2,7 +2,7 @@
 
 ## This is a repository made for taking notes from my study.<br>
 
-## Tor: https://www.torproject.org/download/
+## Tor (Onion): https://www.torproject.org/download/
 
 ![image](https://user-images.githubusercontent.com/122245816/212072787-bc9071c7-2160-4737-82dd-9c2c8dc94a72.png)
 
